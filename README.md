@@ -132,8 +132,6 @@ The dataset is structured across **4 relational tables** within an Excel workboo
 ### Data Model / Source Table
 ![Data Model](Screenshot/Snow-Man.png)
 
-> 📁 *Place your screenshots in the `/screenshots` folder and update the paths above.*
-
 ---
 
 ## 🚀 Installation / Usage Instructions
